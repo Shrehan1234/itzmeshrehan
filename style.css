@@ -75,17 +75,4 @@
     background-color: #808080;
     text-align: center;
 }
-/* particle styling */
-#webcoderskull{
-    position: absolute;
-    left: 0;
-    top: 50%;
-    padding: 0 20px;
-    width: 100%;
-    text-align: center;
-}
 
-canvas{
-    height:100vh;
-    background-color:#16a085;
-}
