@@ -89,10 +89,3 @@ canvas{
     height:100vh;
     background-color:#16a085;
 }
-#webcoderskull h1{
-  letter-spacing: 5px;
-  font-size: 5rem;
-  font-family: 'Roboto', sans-serif;
-  text-transform: uppercase;
-  font-weight: bold;
-}
